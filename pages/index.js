@@ -41,7 +41,7 @@ export default function Home() {
 
       
 
-     <h2>I've been a full time Next.JS developer since 2017.  As its popularity and feature set grow, it is no longer niche, and no longer easy to explain</h2>
+     <h2>I&apos;ve been a full time Next.JS developer since 2017.  As its popularity and feature set grow, it is no longer niche, and no longer easy to explain</h2>
 
      <h2>I aim to do two things to help the web-develpment community</h2>
 
