@@ -39,64 +39,24 @@ export default function Home() {
           </div>
         </div>
 
-        <h2>Attention Web Developers who want to work less and sell more</h2>
-        <br/>
-        
-        <h2>Does your pitch sound like this?</h2>
-        <br/>
-        <h2>I Build Web Apps For People That Need SEO + UX  With Next.JS</h2>
-        <br/>
-        <h1>WRONG</h1>
-        <br/>
-        <h2>You are still way, way too broad.</h2>
-
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <h2>Next.JS has blown up, and with the explosion of industry fragmenteres like DTC and Creator Economy tools, web developers need to niche down in order to stand out</h2>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <h2>We [Do This] For [This Person] In [This Way]</h2>
-        <br/>
-        <br/>
-
-        <h2>I build [commerce hub pages], for [DTC Beverage companies that run live promotional events], using Next.JS</h2>
-        <br/>
-        <br/>
       
-       <h2>Need help finguring this out?</h2>
-       <br/>
-        <br/>
-       <h2>This community is here to help Web Developers niche down and make money in 2023</h2>
-       <br/>
-        <br/>
-       
-       <h2>However... picking an niche isn't enough, you probably also need to learn how to sell your [HOW]</h2>
-       <br/>
-        <br/>
-       <h2>Does this sound like you?</h2>
-       <br/>
-        <br/>
-       <h2>We use Next.JS because it uses Server Side Rendering for better SEO</h2>
-       <br/>
-        <br/>
-       <h1>WRONG</h1>
-       <br/>
-        <br/>
-       <h2>You probably also may need some help with how to sell software to clients</h2>
-       <br/>
-        <br/>
 
-       <h1>Weekly newsletter includes:</h1>
+     <h2>I've been a full time Next.JS developer since 2017.  As its popularity and feature set grow, it is no longer niche, and no longer easy to explain</h2>
+
+     <h2>I aim to do two things to help the web-develpment community</h2>
+
+     <h2>1. Help Niche down and select a profitiable model for code re-use and referals.</h2>
+     <h2>2. Help improve developers on Sales calls.</h2>
+
+     <h2>To begin I am sending a weekly e-mail that includes</h2>
        <ul>
         <li>One Next.JS Niche agency idea</li>
-        <li>One Tip/Trick for how to sell software features</li>
-        <li>One Banger Web Dev Tweet from the past week</li>
+        <li>One Tip/Trick for how to sell software features as benefits</li>
+        <li>One great TS/Next Code tweet</li>
        </ul>
-       <button>Subscribe for Weekly Newsletter where you receive</button>
+
+  <input/>
+       <button>Subscribe for Weekly Newsletter</button>
         <div className={styles.center}>
           <Image
             className={styles.logo}
